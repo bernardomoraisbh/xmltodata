@@ -1,0 +1,15 @@
+C:\Concert\XmlManager\bin\Debug\netcoreapp3.1\XmlManager.exe
+C:\Concert\XmlManager\bin\Debug\netcoreapp3.1\XmlManager.deps.json
+C:\Concert\XmlManager\bin\Debug\netcoreapp3.1\XmlManager.runtimeconfig.json
+C:\Concert\XmlManager\bin\Debug\netcoreapp3.1\XmlManager.runtimeconfig.dev.json
+C:\Concert\XmlManager\bin\Debug\netcoreapp3.1\XmlManager.dll
+C:\Concert\XmlManager\bin\Debug\netcoreapp3.1\XmlManager.pdb
+C:\Concert\XmlManager\obj\Debug\netcoreapp3.1\XmlManager.csprojAssemblyReference.cache
+C:\Concert\XmlManager\obj\Debug\netcoreapp3.1\XmlManager.AssemblyInfoInputs.cache
+C:\Concert\XmlManager\obj\Debug\netcoreapp3.1\XmlManager.AssemblyInfo.cs
+C:\Concert\XmlManager\obj\Debug\netcoreapp3.1\XmlManager.dll
+C:\Concert\XmlManager\obj\Debug\netcoreapp3.1\XmlManager.pdb
+C:\Concert\XmlManager\obj\Debug\netcoreapp3.1\XmlManager.genruntimeconfig.cache
+C:\Concert\XmlManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Concert\XmlManager\obj\Debug\netcoreapp3.1\XmlManager.csproj.CoreCompileInputs.cache
+C:\Concert\XmlManager\obj\Debug\netcoreapp3.1\XmlManager.csproj.CopyComplete

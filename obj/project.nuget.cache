@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pFMu4UzTIeDFW7uPaMiZmCDPDdUb4ZTqTpu5at2CVux6qM5+hIshqldJxkiz57gzHoYaGVyfIBx/ujxD54qzHg==",
+  "success": true,
+  "projectFilePath": "C:\\Concert\\XmlManager\\XmlManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berna\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

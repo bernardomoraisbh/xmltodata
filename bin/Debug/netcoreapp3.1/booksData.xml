@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books xmlns="http://www.contoso.com/books">
+	<try genre="novel" >t</try>
+	<book genre="novel" ISBN="1-861001-57-8" publicationdate="1823-01-28">
+		<title>Pride And Prejudice</title>
+		<price>24.95</price>
+	</book>
+	<book genre="novel" ISBN="1-861002-30-1" publicationdate="1985-01-01">
+		<title>The Handmaid's Tale</title>
+		<price>29.95</price>
+	</book>
+	<book genre="novel" ISBN="1-861001-45-3" publicationdate="1811-01-01">
+		<title>Sense and Sensibility</title>
+		<price>19.95</price>
+	</book>
+	<booksTipe></booksTipe>
+	<List_TRAFO_SE>
+		<TRAFO_SE genre="CASINHAA">
+            <ID>TRSE_FCNTR6</ID>
+            <EXTERN_ID>357285</EXTERN_ID>
+            <CODIGO>TRSE_FCNTR6</CODIGO>
+            <SE_ID>FCN</SE_ID>
+            <TIPO_TRAFO_SE></TIPO_TRAFO_SE>
+            <SNOM_MVA>60.0</SNOM_MVA>
+            <VALTA_KV>138.0</VALTA_KV>
+            <VMEDIA_KV>13.8</VMEDIA_KV>
+            <VOP_KV>13.8</VOP_KV>
+            <R0_PU genre="CCU">0.0</R0_PU>
+            <X0_PU>0.0</X0_PU>
+            <R1_PU>0.0</R1_PU>
+            <X1_PU>0.0</X1_PU>
+            <PERDA_FE_KW>0.0</PERDA_FE_KW>
+            <PERDA_CU_KW>0.0</PERDA_CU_KW>
+        </TRAFO_SE>
+        <TRAFO_SE>
+            <ID>TRSE_FCNTR2</ID>
+            <EXTERN_ID>364691</EXTERN_ID>
+            <CODIGO>TRSE_FCNTR2</CODIGO>
+            <SE_ID>FCN</SE_ID>
+            <TIPO_TRAFO_SE></TIPO_TRAFO_SE>
+            <SNOM_MVA>40.0</SNOM_MVA>
+            <VALTA_KV>138.0</VALTA_KV>
+            <VMEDIA_KV>13.8</VMEDIA_KV>
+            <VOP_KV>13.8</VOP_KV>
+            <R0_PU>0.0</R0_PU>
+            <X0_PU>0.0</X0_PU>
+            <R1_PU>0.0</R1_PU>
+            <X1_PU>0.0</X1_PU>
+            <PERDA_FE_KW>0.0</PERDA_FE_KW>
+            <PERDA_CU_KW>0.0</PERDA_CU_KW>
+        </TRAFO_SE>
+	</List_TRAFO_SE>
+	<booksNumber>3</booksNumber>
+</books>

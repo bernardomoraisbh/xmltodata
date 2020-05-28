@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books xmlns="http://www.contoso.com/books">
+	<try genre="novel" >t</try>
+	<book genre="novel" ISBN="1-861001-57-8" publicationdate="1823-01-28">
+		<title>Pride And Prejudice</title>
+		<price>24.95</price>
+	</book>
+	<booksNumber>3</booksNumber>
+</books>
