@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<books xmlns="http://www.contoso.com/books">
+<books xmlns="http://www.contoso.com/books" books="thisBook">
 	<try genre="novel" >t</try>
 	<book genre="novel" ISBN="1-861001-57-8" publicationdate="1823-01-28">
 		<title>Pride And Prejudice</title>
@@ -11,10 +11,17 @@
 	</book>
 	<book genre="novel" ISBN="1-861001-45-3" publicationdate="1811-01-01">
 		<title>Sense and Sensibility</title>
-		<price>19.95</price>
+		<price promo="SIM" >19.95</price>
 	</book>
+	
+	<example>teste</example>
+	<example><example>fdsasdf</example></example>
+	<example><example2>bcd</example2></example>
+	<example>teste3</example>
+	
 	<booksTipe></booksTipe>
-	<List_TRAFO_SE>
+	<List_TRAFO_SE trafo="2">
+		<example>teste4</example>
 		<TRAFO_SE genre="CASINHAA">
             <ID>TRSE_FCNTR6</ID>
             <EXTERN_ID>357285</EXTERN_ID>
