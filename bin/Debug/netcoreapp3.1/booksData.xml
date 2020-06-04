@@ -1,61 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <books xmlns="http://www.contoso.com/books" books="thisBook">
-	<try genre="novel" >t</try>
-	<book genre="novel" ISBN="1-861001-57-8" publicationdate="1823-01-28">
-		<title>Pride And Prejudice</title>
-		<price>24.95</price>
-	</book>
-	<book genre="novel" ISBN="1-861002-30-1" publicationdate="1985-01-01">
-		<title>The Handmaid's Tale</title>
-		<price>29.95</price>
-	</book>
-	<book genre="novel" ISBN="1-861001-45-3" publicationdate="1811-01-01">
-		<title>Sense and Sensibility</title>
-		<price promo="SIM" >19.95</price>
-	</book>
-	
-	<example>teste</example>
-	<example><example>fdsasdf</example></example>
-	<example><example2>bcd</example2></example>
-	<example>teste3</example>
-	
 	<booksTipe></booksTipe>
-	<List_TRAFO_SE trafo="2">
+	<List_INSTAL_TRAFO>
 		<example>teste4</example>
-		<TRAFO_SE genre="CASINHAA">
-            <ID>TRSE_FCNTR6</ID>
-            <EXTERN_ID>357285</EXTERN_ID>
-            <CODIGO>TRSE_FCNTR6</CODIGO>
-            <SE_ID>FCN</SE_ID>
-            <TIPO_TRAFO_SE></TIPO_TRAFO_SE>
-            <SNOM_MVA>60.0</SNOM_MVA>
-            <VALTA_KV>138.0</VALTA_KV>
-            <VMEDIA_KV>13.8</VMEDIA_KV>
-            <VOP_KV>13.8</VOP_KV>
-            <R0_PU genre="CCU">0.0</R0_PU>
-            <X0_PU>0.0</X0_PU>
-            <R1_PU>0.0</R1_PU>
-            <X1_PU>0.0</X1_PU>
-            <PERDA_FE_KW>0.0</PERDA_FE_KW>
-            <PERDA_CU_KW>0.0</PERDA_CU_KW>
-        </TRAFO_SE>
-        <TRAFO_SE>
-            <ID>TRSE_FCNTR2</ID>
-            <EXTERN_ID>364691</EXTERN_ID>
-            <CODIGO>TRSE_FCNTR2</CODIGO>
-            <SE_ID>FCN</SE_ID>
-            <TIPO_TRAFO_SE></TIPO_TRAFO_SE>
-            <SNOM_MVA>40.0</SNOM_MVA>
-            <VALTA_KV>138.0</VALTA_KV>
-            <VMEDIA_KV>13.8</VMEDIA_KV>
-            <VOP_KV>13.8</VOP_KV>
-            <R0_PU>0.0</R0_PU>
-            <X0_PU>0.0</X0_PU>
-            <R1_PU>0.0</R1_PU>
-            <X1_PU>0.0</X1_PU>
-            <PERDA_FE_KW>0.0</PERDA_FE_KW>
-            <PERDA_CU_KW>0.0</PERDA_CU_KW>
-        </TRAFO_SE>
-	</List_TRAFO_SE>
+        <INSTAL_TRAFO>
+            <ID>ECD110265</ID>
+            <EXTERN_ID>TRA2027015</EXTERN_ID>
+            <CIRC_ID>FCN646</CIRC_ID>
+            <BARRA_ID>BMT671775203</BARRA_ID>
+            <BARRA_BT_ID>BBT341369260</BARRA_BT_ID>
+            <TIPO_INSTAL_TRAFO>EP</TIPO_INSTAL_TRAFO>
+            <TIPO_LIGACAO>TRIFASICA</TIPO_LIGACAO>
+            <TIPO_FATURAMENTO>MT</TIPO_FATURAMENTO>
+            <TIPO_MEDICAO>MT</TIPO_MEDICAO>
+            <SNOM_KVA>600.0</SNOM_KVA>
+            <FASES_MT>ABC</FASES_MT>
+            <COD_CONJ_ANEEL>15049</COD_CONJ_ANEEL>
+            <FLAG_RECALC>1</FLAG_RECALC>
+            <URBANO_RURAL>2</URBANO_RURAL>
+            <List_UTC_BT>
+                <UTC_BT>
+                    <ID>UTECD110265</ID>
+                    <CODIGO>ECD110265</CODIGO>
+                    <ET_ID>ECD110265</ET_ID>
+                    <SNOM_KVA>600.0</SNOM_KVA>
+                    <VMEDIA_KV>13.8</VMEDIA_KV>
+                    <VBAIXA_V>220.0</VBAIXA_V>
+                    <FASES_MT>ABC</FASES_MT>
+                    <FASES_BT>ABCN</FASES_BT>
+                </UTC_BT>
+            </List_UTC_BT>
+            <List_BARRA_BT>
+                <BARRA_BT>
+                    <ID>BBT341369260</ID>
+                    <VNOM_V>220.0</VNOM_V>
+                    <X_UTM_M>685747.0</X_UTM_M>
+                    <Y_UTM_M>7464097.0</Y_UTM_M>
+                </BARRA_BT>
+            </List_BARRA_BT>
+            <List_TRECHO_BT/>
+            <List_PSERV_BT/>
+            <List_CONS_IP/>
+            <List_CONS_MT>
+                <CONS_MT>
+                    <ID>CL0400046272</ID>
+                    <EP_ID>ECD110265</EP_ID>
+                    <BARRA_BT_ID>BBT341369260</BARRA_BT_ID>
+                    <NOME>nome</NOME>
+                    <TIPO_CLASSE_CONS>-1</TIPO_CLASSE_CONS>
+                    <CONSUMO_KWH_MES>13721.0</CONSUMO_KWH_MES>
+                    <FASES>ABCN</FASES>
+                </CONS_MT>
+            </List_CONS_MT>
+        </INSTAL_TRAFO>
+	</List_INSTAL_TRAFO>
+	
+	<List_GERADOR/>
+    <List_REGULADOR/>
+    <List_TRAFO_LINHA/>
+	
 	<booksNumber>3</booksNumber>
 </books>
